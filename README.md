@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdjcodes&show_icons=true&theme=transparent)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdjcodes&layout=compact&theme=transparent&hide=css)  
-![GitHub Streak](github-readme-streak-stats-b2xnm0n1c-wdjcodes-projects.vercel.app?user=wdjcodes&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats-git-vercel-wdjcodes-projects.vercel.app/?user=wdjcodes&theme=transparent)
 
 <!--
 **wdjcodes/wdjcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
