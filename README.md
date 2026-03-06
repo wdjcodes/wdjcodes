@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats-gray-three-10.vercel.app/api?username=wdjcodes&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card)  
+[![Anurag's GitHub stats](https://github-readme-stats-gray-three-10.vercel.app/api?username=wdjcodes&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card)  
 [![Top Langs](https://github-readme-stats-gray-three-10.vercel.app/api/top-langs/?username=wdjcodes&langs_count=8&theme=transparent&hide=css)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card)  
 
 <!--
